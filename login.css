@@ -1,0 +1,27 @@
+label{
+    display: block;
+    font-size: 18px;
+    
+}
+#b{
+    display: block;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    
+}
+input{
+    margin-bottom: 20px;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
+form{
+    display: flex;
+    flex-direction: column;
+    
+    width: 100vw;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+}

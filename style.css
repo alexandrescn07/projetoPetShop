@@ -1,0 +1,45 @@
+.t{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+}
+.s{
+    border: 1px;
+    font-size: 18px;
+    font-family: Arial;
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+div{
+    margin: 20px;
+    padding-bottom: 20px;
+}
+.text{
+    background-color: blue;
+    border: 2px;
+    text-align: justify;
+    font-family: Arial;
+}
+.img{
+    height: 400px;
+    width: 400px;
+}
+.cs{
+    background-color: lightblue;
+}
+.titulo{
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}k
+.list{
+    font-family: Arial;
+    text-align: left;
+    font-size: 18px;
+    text-decoration: none;
+}
